@@ -10,7 +10,7 @@ setup(
     name='earthshaker',
     version='0.1',
     description='paladin is eleme tpd platform',
-    long_description=open(os.path.join('README.md')).read(),
+    long_description=open(os.path.join('README.rst')).read(),
     author='stdrickforce',
     author_email='tengyuan.fan@ele.me',
     packages=find_packages(),
