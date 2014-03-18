@@ -1,0 +1,8 @@
+# Packages
+*.egg
+*.egg-info
+build
+dist
+
+# Logs
+install.record

@@ -7,7 +7,7 @@ requires = [
 ]
 
 setup(
-    name='earthshaker',
+    name='paladin',
     version='0.1',
     description='paladin is eleme tpd platform',
     long_description=open(os.path.join('README.rst')).read(),
