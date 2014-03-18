@@ -34,4 +34,5 @@ Development
 Run server:
 
 .. code:: bash
+
     $ python server.py
