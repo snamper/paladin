@@ -10,6 +10,7 @@ from paladin.utils import user_client
 def index():
     with user_client() as c:
         try:
-            return c.get(50)
+            user = c.get(59)
+            return user.name
         except Exception as e:
             return repr(e)
